@@ -1,0 +1,1 @@
+In this group project, we were given Spain Electricity datasets where we did extensive exploratory data analysis, before we went into cleaning and augmenting the datasets, then we creatye and compare different ML models, then we discussed our findings.
